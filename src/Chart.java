@@ -7,7 +7,7 @@ public class Chart {
 		
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println(x*i);
+			System.out.println(x*i);// will print 17 table
 		}
 		
 
